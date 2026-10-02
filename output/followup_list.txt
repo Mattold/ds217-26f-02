@@ -1,0 +1,10 @@
+Cutoff: 140 mmHg
+Reason: Systolic Readings at or above 140 mmHg are considered stage 2 hypertension and require follow-up.
+P002
+P006
+P011
+P014
+P018
+P022
+P025
+P028
